@@ -276,19 +276,6 @@
               "status": "unaffected"
             }
           ]
-        },
-        {
-          "ref": "urn:cdx:e4c3eedc-4978-470c-ad02-6ffff63738ff/1#product-JKL",
-          "versions": [
-            {
-              "range": "vers:generic/>=1.0|<=4.4",
-              "status": "unaffected"
-            },
-            {
-              "version": "5.2",
-              "status": "unaffected"
-            }
-          ]
         }
       ]
     },

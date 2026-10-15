@@ -53,8 +53,7 @@
         "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-25649"
       },
       "analysis": {
-        "state": "exploitable",
-        "detail": "Automated dataflow analysis and manual code review indicates that the vulnerable code is not reachable, either directly or indirectly."
+        "state": "exploitable"
       },
       "affects": [
         {
